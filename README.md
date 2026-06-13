@@ -17,16 +17,16 @@ I'm a second-year PhD student in Neuroscience at the **Icahn School of Medicine 
 - Ceceli AO, Huang Y, Kronberg G, **McClain N**, King S, Butelman E, Alia-Klein N, & Goldstein RZ. (2025) The impaired Response Inhibition and Salience Attribution (iRISA) model of drug addiction: recent neuroimaging evidence and future directions. Annual Review of Psychology.
 - Ceceli AO, King S, Drury K, **McClain N**, Gray J, Dassanayake PS, Newcorn J, Schiller D, Alia-Klein N, Goldstein R. (2025) The neural signature of methylphenidate- and reconsolidation-enhanced memory disruption in human drug addiction. PNAS.
 - Huang Y, Butelman E, Ceceli AO, Kronberg G, King SG, **McClain N**, Wong Y, Boros M, Drury K, Sinha R, Alia-Klein N, Goldstein RZ. (2025) Sex and hormonal effects on drug cue-reactivity and its regulation in human addiction. Biological Psychiatry.
-**McClain N**, Ceceli AO*, Kronberg G, Alia-Klein N, Goldstein RZ. (2025) Moving beyond self-report in characterizing drug addiction: Using behavioral measures to inform treatment adherence. Biological Psychiatry: Global Open Science. 
+- **McClain N**, Ceceli AO*, Kronberg G, Alia-Klein N, Goldstein RZ. (2025) Moving beyond self-report in characterizing drug addiction: Using behavioral measures to inform treatment adherence. Biological Psychiatry: Global Open Science. 
 
 #### 2024
-Kronberg G*, Ceceli AO*, Huang Y, Gaudreault PO, King SG, **McClain N**, Alia-Klein N, Goldstein RZ. (2024) Naturalistic drug cue reactivity in heroin use disorder: orbitofrontal synchronization as a marker of craving and recovery. Brain.
-Liao Z, Gonzalez KC, Li DM, Yan CM, **McClain N**, Zhang G, Evans SW, Chavarha M, Simko J, Makinson CD, Lin MZ, Losonczy A, Negrean A. (2024) Functional architecture of intracellular oscillations in hippocampal dendrites. Nature Communications, 15(1).
-Ceceli AO, Huang Y, Gaudreault PO, **McClain N**, King SG, Kronberg G, Brackett A, Hoberman GN, Gray JH, Garland EL, Alia-Klein N, Goldstein RZ. (2024) Recovery of inhibitory control prefrontal cortex function in inpatients with heroin use disorder: A 15-week longitudinal fMRI study. Nature Mental Health, 2(6), 694–702.
+- Kronberg G*, Ceceli AO*, Huang Y, Gaudreault PO, King SG, **McClain N**, Alia-Klein N, Goldstein RZ. (2024) Naturalistic drug cue reactivity in heroin use disorder: orbitofrontal synchronization as a marker of craving and recovery. Brain.
+- Liao Z, Gonzalez KC, Li DM, Yan CM, **McClain N**, Zhang G, Evans SW, Chavarha M, Simko J, Makinson CD, Lin MZ, Losonczy A, Negrean A. (2024) Functional architecture of intracellular oscillations in hippocampal dendrites. Nature Communications, 15(1).
+- Ceceli AO, Huang Y, Gaudreault PO, **McClain N**, King SG, Kronberg G, Brackett A, Hoberman GN, Gray JH, Garland EL, Alia-Klein N, Goldstein RZ. (2024) Recovery of inhibitory control prefrontal cortex function in inpatients with heroin use disorder: A 15-week longitudinal fMRI study. Nature Mental Health, 2(6), 694–702.
 
 #### 2023
-Ceceli AO, Huang Y, Kronberg G, Malaker P, Miller P, King SG, Gaudreault PO, **McClain N**, Gabay L, Vasa D, Newcorn JH, Ekin D, Alia-Klein N, Goldstein RZ. (2023) Common and distinct fronto-striatal volumetric changes in heroin and cocaine use disorders. Brain, 146(4), 1662–1671.
-Ceceli AO, King SG, **McClain N**, Alia-Klein N, Goldstein RZ. (2023) The neural signature of impaired inhibitory control in individuals with heroin use disorder. Journal of Neuroscience, 43(1), 173–182.
+- Ceceli AO, Huang Y, Kronberg G, Malaker P, Miller P, King SG, Gaudreault PO, **McClain N**, Gabay L, Vasa D, Newcorn JH, Ekin D, Alia-Klein N, Goldstein RZ. (2023) Common and distinct fronto-striatal volumetric changes in heroin and cocaine use disorders. Brain, 146(4), 1662–1671.
+- Ceceli AO, King SG, **McClain N**, Alia-Klein N, Goldstein RZ. (2023) The neural signature of impaired inhibitory control in individuals with heroin use disorder. Journal of Neuroscience, 43(1), 173–182.
 
 
 ## ⚡ A Few Other Things About Me
