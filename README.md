@@ -14,9 +14,9 @@ I'm a second-year PhD student in Neuroscience at the **Icahn School of Medicine 
 ## 📄 Publications
 
 #### 2025
-Ceceli AO, Huang Y, Kronberg G, **McClain N**, King S, Butelman E, Alia-Klein N, & Goldstein RZ. (2025) The impaired Response Inhibition and Salience Attribution (iRISA) model of drug addiction: recent neuroimaging evidence and future directions. Annual Review of Psychology.
-Ceceli AO, King S, Drury K, **McClain N**, Gray J, Dassanayake PS, Newcorn J, Schiller D, Alia-Klein N, Goldstein R. (2025) The neural signature of methylphenidate- and reconsolidation-enhanced memory disruption in human drug addiction. PNAS.
-Huang Y, Butelman E, Ceceli AO, Kronberg G, King SG, **McClain N**, Wong Y, Boros M, Drury K, Sinha R, Alia-Klein N, Goldstein RZ. (2025) Sex and hormonal effects on drug cue-reactivity and its regulation in human addiction. Biological Psychiatry.
+- Ceceli AO, Huang Y, Kronberg G, **McClain N**, King S, Butelman E, Alia-Klein N, & Goldstein RZ. (2025) The impaired Response Inhibition and Salience Attribution (iRISA) model of drug addiction: recent neuroimaging evidence and future directions. Annual Review of Psychology.
+- Ceceli AO, King S, Drury K, **McClain N**, Gray J, Dassanayake PS, Newcorn J, Schiller D, Alia-Klein N, Goldstein R. (2025) The neural signature of methylphenidate- and reconsolidation-enhanced memory disruption in human drug addiction. PNAS.
+- Huang Y, Butelman E, Ceceli AO, Kronberg G, King SG, **McClain N**, Wong Y, Boros M, Drury K, Sinha R, Alia-Klein N, Goldstein RZ. (2025) Sex and hormonal effects on drug cue-reactivity and its regulation in human addiction. Biological Psychiatry.
 **McClain N**, Ceceli AO*, Kronberg G, Alia-Klein N, Goldstein RZ. (2025) Moving beyond self-report in characterizing drug addiction: Using behavioral measures to inform treatment adherence. Biological Psychiatry: Global Open Science. 
 
 #### 2024
