@@ -14,25 +14,25 @@ I'm a second-year PhD student in Neuroscience at the **Icahn School of Medicine 
 ## 📄 Publications
 
 #### 2025
-🔗 [Ceceli AO et al. (**McClain N**) — iRISA model: recent neuroimaging evidence. *Annual Review of Psychology.*](#)
+[🔗](https://pubmed.ncbi.nlm.nih.gov/41032574/) Ceceli AO et al. (**McClain N**) — The Impaired Response Inhibition and Salience Attribution Model of Drug Addiction: Recent Neuroimaging Evidence and Future Directions. *Annual Review of Psychology.*
 
-🔗 [Ceceli AO et al. (**McClain N**) — Methylphenidate & reconsolidation-enhanced memory disruption in drug addiction. *PNAS.*](#)
+[🔗](https://pmc.ncbi.nlm.nih.gov/articles/PMC12625820/) Ceceli AO et al. (**McClain N**) — The synergy of methylphenidate- and reconsolidation-based extinction normalizes ventromedial prefrontal function in drug addiction. *PNAS.*
 
-🔗 [Huang Y et al. (**McClain N**) — Sex and hormonal effects on drug cue-reactivity in human addiction. *Biological Psychiatry.*](#)
+[🔗](https://www.sciencedirect.com/science/article/abs/pii/S0006322325012156) Huang Y et al. (**McClain N**) — Sex and Hormonal Effects on Drug Cue Reactivity and Its Regulation in Human Addiction. *Biological Psychiatry.*
 
-🔗 [**McClain N**, Ceceli AO*, et al. — Beyond self-report: behavioral measures and treatment adherence in drug addiction. *Biological Psychiatry: Global Open Science.*](#)
+[🔗](https://www.sciencedirect.com/science/article/pii/S2667174325002216) **McClain N**, Ceceli AO*, et al. — Moving Beyond Self-Report in Characterizing Drug Addiction: Using Drug-Biased Behavior to Predict Treatment Completion and Dropout in Heroin-Primary, Medication-Maintained Opioid Use Disorder. *Biological Psychiatry: Global Open Science.*
 
 #### 2024
-🔗 [Kronberg G*, Ceceli AO* et al. (**McClain N**) — Naturalistic drug cue reactivity in heroin use disorder: OFC synchronization as craving marker. *Brain.*](#)
+[🔗](https://academic.oup.com/brain/article/148/5/1778/7895715?login=true) Kronberg G*, Ceceli AO* et al. (**McClain N**) — Shared orbitofrontal dynamics to a drug-themed movie track craving and recovery in heroin addiction. *Brain.*
 
-🔗 [Liao Z et al. (**McClain N**) — Functional architecture of intracellular oscillations in hippocampal dendrites. *Nature Communications.*](#)
+[🔗](https://www.nature.com/articles/s41467-024-50546-z) Liao Z et al. (**McClain N**) — Functional architecture of intracellular oscillations in hippocampal dendrites. *Nature Communications.*
 
-🔗 [Ceceli AO et al. (**McClain N**) — Recovery of inhibitory control in heroin use disorder: 15-week longitudinal fMRI. *Nature Mental Health.*](#)
+[🔗](https://www.nature.com/articles/s44220-024-00230-4) Ceceli AO et al. (**McClain N**) — Recovery of anterior prefrontal cortex inhibitory control after 15 weeks of inpatient treatment in heroin use disorder. *Nature Mental Health.*
 
 #### 2023
-🔗 [Ceceli AO et al. (**McClain N**) — Fronto-striatal volumetric changes in heroin and cocaine use disorders. *Brain.*](#)
+[🔗](https://pubmed.ncbi.nlm.nih.gov/36200376/) Ceceli AO et al. (**McClain N**) — Common and distinct fronto-striatal volumetric changes in heroin and cocaine use disorders. *Brain.*
 
-🔗 [Ceceli AO et al. (**McClain N**) — Neural signature of impaired inhibitory control in heroin use disorder. *Journal of Neuroscience.*](#)
+[🔗](https://pubmed.ncbi.nlm.nih.gov/36396402/) Ceceli AO et al. (**McClain N**) — The Neural Signature of Impaired Inhibitory Control in Individuals with Heroin Use Disorder. *Journal of Neuroscience.*
 
 
 ## ⚡ A Few Other Things About Me
